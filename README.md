@@ -1,5 +1,36 @@
 # 💫 About Me:
-🚀 Final-Year B.Tech CSE Student | Aspiring Software Engineer 💻<br>Passionate about crafting scalable, efficient, and user-centric applications, I am a final-year Computer Science Engineering student with hands-on experience in both frontend and backend development. 🌐⚙️<br>✨ I have built multiple real-world projects that blend intuitive UI with robust backend logic, reflecting my ability to transform ideas into impactful digital solutions.<br>💡 With a strong foundation in problem-solving and a continuous drive to learn, I thrive on exploring modern technologies, writing clean code, and building systems that make a difference.<br>🔥 Currently seeking opportunities as a Software Engineer where I can contribute, grow, and innovate alongside dynamic teams.<br>📌 Tech Stack: Frontend | Backend | APIs | Databases<br>📌 Focus: Clean Code • Scalable Systems • Continuous Learning<br><br>Let’s build something amazing together! 🚀<br>
+# 👋 Hi, I'm Ambuj Kumar
+
+💻 **Aspiring Java Backend / Software Engineer | Fresher**
+
+I’m a Computer Science Engineering graduate and a passionate software developer focused on building **clean, efficient, and scalable applications**.
+
+🚀 I have hands-on experience with **Java, Spring Boot, MySQL, MongoDB, JavaScript, React.js, HTML, and CSS**, and I enjoy turning ideas into practical applications through both frontend and backend development.
+
+### 🛠️ Tech Stack
+
+* **Languages:** Java, JavaScript, SQL
+* **Backend:** Spring Boot, REST APIs
+* **Frontend:** HTML, CSS, JavaScript, React.js
+* **Databases:** MySQL, MongoDB
+* **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+* **Currently Learning:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate & Backend Development
+
+### 🎯 What I'm Focused On
+
+* Building RESTful APIs and backend applications
+* Improving my Java & Spring Boot skills
+* Strengthening Data Structures & Algorithms
+* Learning software development best practices
+* Writing clean, maintainable and reusable code
+* Building real-world projects to solve practical problems
+
+🔥 **Currently looking for entry-level opportunities as a Java Developer, Backend Developer, or Software Engineer**, where I can learn, contribute, and grow with a great team.
+
+📌 **Goal:** Become a strong backend/full-stack developer and build scalable software that solves real-world problems.
+
+🚀 **Let’s build, learn, and grow together!**
+
 
 
 ## 🌐 Socials:
